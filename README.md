@@ -23,7 +23,7 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 
 #### 1. Clone the repository:
    - ```
-     git clone https://github.com/harshitv804/LawGPT.git
+     https://github.com/Jurispro/LawGpt-.git
      ```
 #### 2. Install necessary packages:
    - ```
