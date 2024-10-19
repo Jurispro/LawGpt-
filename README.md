@@ -40,4 +40,4 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 #### 5. To run the `app.py` file, open the CMD Terminal and and type `streamlit run FULL_FILE_PATH_OF_APP.PY`.
 
 ## Contact
-If you have any questions or feedback, please raise an [github issue](https://github.com/harshitv804/LawGPT/issues).
+If you have any questions or feedback, please raise an [github issue](https://github.com/harshitv804/LawGPT/issues](https://github.com/Jurispro/LawGpt-/issues ).
